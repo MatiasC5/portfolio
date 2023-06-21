@@ -3,14 +3,15 @@ import htmlImg from '../../../assets/images/technologies-images/html-5.png'
 import cssImg from '../../../assets/images/technologies-images/css-3.png'
 import javascriptImg from '../../../assets/images/technologies-images/js.png'
 import reactImg from '../../../assets/images/technologies-images/react.png'
+import { Link } from 'react-router-dom';
 
 
 export const TodoList = () => {
 	return (
 		<div className='todoList-project main-project'>
-			<a href='https://matiasc5.github.io/todoList/' target='_blank'>
+			<Link to='https://matiasc5.github.io/todoList/' target='_blank'>
 				<img src={todoList} alt='todoList-image' className='projects' />
-			</a>
+			</Link>
 			<h1 style={{ color: 'white' }}>todoList</h1>
 			<div className='icon-div'>
 				<div className='html-icon-container'>

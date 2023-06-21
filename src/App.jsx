@@ -5,13 +5,13 @@ import './index.css';
 
 export const App = () => {
 	return (
-		<div className='App'>
+		<main className='App'>
 			<NavBar />
 			<Routes>
 				<Route path='/' element={<MainPage />} />
 				<Route path='/projects' element={<Projects />} />
 				<Route path='*' element={<Error404 />} />
 			</Routes>
-		</div>
+		</main>
 	);
 };

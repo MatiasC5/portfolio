@@ -2,14 +2,15 @@ import calculator from '../../../assets/images/projects-images/calculator.png';
 import htmlImg from '../../../assets/images/technologies-images/html-5.png'
 import cssImg from '../../../assets/images/technologies-images/css-3.png'
 import javascriptImg from '../../../assets/images/technologies-images/js.png'
+import { Link } from 'react-router-dom';
 
 
 export const Calculator = () => {
 	return (
 		<div className='calculator-project main-project'>
-			<a href='https://matiasc5.github.io/calculator/' target='_blank'>
+			<Link to='https://matiasc5.github.io/calculator/' target='_blank'>
 				<img src={calculator} alt='calculator-image' className='projects' />
-			</a>
+			</Link>
 			<h1 style={{ color: 'violet' }}>Calculator</h1>
 			<div className='icon-div'>
 				<div className='html-icon-container'>
