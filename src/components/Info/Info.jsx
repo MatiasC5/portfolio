@@ -1,6 +1,6 @@
-import './MainPage.css';
+import './Info.css';
 
-export const MainPage = () => {
+export const Info = () => {
 	return (
 		<>
 			<section className='presentation-container'>

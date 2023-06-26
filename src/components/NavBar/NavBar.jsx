@@ -20,31 +20,19 @@ export const NavBar = () => {
 		<header>
 			<nav className='menu'>
 				<NavLink
-					to='/'
-					className={({ isActive }) => (isActive ? 'active' : '')}
-				>
-					Home
-				</NavLink>
-				<NavLink
-					to='/projects'
-					className={({ isActive }) => (isActive ? 'active' : '')}
-				>
-					Projects
-				</NavLink>
-				<a
-					href='https://www.linkedin.com/in/matias-cardoso-053052237/'
+					to='https://www.linkedin.com/in/matias-cardoso-053052237/'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
 					Linkedin
-				</a>
-				<a
-					href='https://github.com/MatiasC5'
+				</NavLink>
+				<NavLink
+					to='https://github.com/MatiasC5'
 					target='_blank'
 					rel='noopener noreferrer'
 				>
 					Github
-				</a>
+				</NavLink>
 				<MailTo mailto='mailto:cardosomatias1994@gmail.com' label='Email' />
 			</nav>
 		</header>

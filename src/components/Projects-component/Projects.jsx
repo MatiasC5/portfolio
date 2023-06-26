@@ -3,7 +3,7 @@ import './Projects.css';
 
 export const Projects = () => {
 	return (
-		<div className='projects-container'>
+		<section className='projects-container'>
 			<h2 className='projects-title'>PROYECTOS</h2>
 			<section className='project-section '>
 				<MemoryGame />
@@ -12,6 +12,6 @@ export const Projects = () => {
 				<Animeru />
 				<TodoList />
 			</section>
-		</div>
+		</section>
 	);
 };
