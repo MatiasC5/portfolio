@@ -2,14 +2,13 @@ import animeru from '../../../assets/images/projects-images/animeru.png';
 import htmlImg from '../../../assets/images/technologies-images/html-5.png'
 import cssImg from '../../../assets/images/technologies-images/css-3.png'
 import javascriptImg from '../../../assets/images/technologies-images/js.png'
-import { Link } from 'react-router-dom';
 
 export const Animeru = () => {
 	return (
 		<div className='animeru-project main-project'>
-			<Link to='https://matiasc5.github.io/animeru/' target='_blank'>
+			<a href='https://matiasc5.github.io/animeru/' target='_blank'>
 				<img src={animeru} alt='animeru-image' className='projects' />
-			</Link>
+			</a>
 			<h1 style={{ color: 'red' }}>Animeru</h1>
 			<div className='icon-div'>
 				<div className='html-icon-container'>

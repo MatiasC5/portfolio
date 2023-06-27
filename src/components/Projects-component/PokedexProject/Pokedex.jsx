@@ -2,15 +2,13 @@ import pokedex from '../../../assets/images/projects-images/pokedex.png';
 import htmlImg from '../../../assets/images/technologies-images/html-5.png'
 import cssImg from '../../../assets/images/technologies-images/css-3.png'
 import javascriptImg from '../../../assets/images/technologies-images/js.png'
-import { Link } from 'react-router-dom';
 
 export const Pokedex = () => {
 	return (
 		<div className='pokedex-project main-project'>
-			<Link to='https://matiasc5.github.io/Pokedex.github.io/' target='_blank'>
-				{' '}
+			<a href='https://matiasc5.github.io/Pokedex.github.io/' target='_blank'>
 				<img src={pokedex} alt='pokedex-image' className='projects' />{' '}
-			</Link>
+			</a>
 			<h1 style={{ color: 'orange' }}>Pokedex</h1>
 			<div className='icon-div'>
 				<div className='html-icon-container'>

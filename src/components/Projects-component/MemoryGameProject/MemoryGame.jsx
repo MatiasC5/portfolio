@@ -3,18 +3,17 @@ import htmlImg from '../../../assets/images/technologies-images/html-5.png'
 import cssImg from '../../../assets/images/technologies-images/css-3.png'
 import javascriptImg from '../../../assets/images/technologies-images/js.png'
 import '../Projects.css';
-import { Link } from 'react-router-dom';
 
 export const MemoryGame = () => {
 	return (
 		<>
 			<div className='memory-game-project main-project'>
-				<Link
-					to='https://matiasc5.github.io/TheWicherMemoryGame.github.io/'
+				<a
+					href='https://matiasc5.github.io/TheWicherMemoryGame.github.io/'
 					target='_blank'
 				>
 					<img src={memoryGame} alt='memory-game-image' className='projects' />
-				</Link>
+				</a>
 				<h1>The Witcher Memory Game</h1>
 				<div className='icon-div'>
 					<div className='html-icon-container'>
