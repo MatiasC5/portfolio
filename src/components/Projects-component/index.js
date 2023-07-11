@@ -1,5 +1,5 @@
-export * from './AnimeruProject/Animeru';
-export * from './CalculatorProject/Calculator';
-export * from './MemoryGameProject/MemoryGame';
-export * from './PokedexProject/Pokedex';
-export * from './TodoListProject/TodoList';
+export { Animeru } from './AnimeruProject/Animeru';
+export { Calculator } from './CalculatorProject/Calculator';
+export { MemoryGame } from './MemoryGameProject/MemoryGame';
+export { Pokedex } from './PokedexProject/Pokedex';
+export { TodoList } from './TodoListProject/TodoList';

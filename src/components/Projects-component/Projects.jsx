@@ -1,4 +1,4 @@
-import { Animeru, Calculator, Pokedex, MemoryGame, TodoList } from './';
+import { Animeru, Calculator, MemoryGame, Pokedex, TodoList } from './index';
 import './Projects.css';
 
 export const Projects = () => {
@@ -6,10 +6,10 @@ export const Projects = () => {
 		<section className='projects-container'>
 			<h2 className='projects-title'>PROYECTOS</h2>
 			<section className='project-section '>
-				<MemoryGame />
-				<Calculator />
-				<Pokedex />
 				<Animeru />
+				<Calculator />
+				<MemoryGame />
+				<Pokedex />
 				<TodoList />
 			</section>
 		</section>
