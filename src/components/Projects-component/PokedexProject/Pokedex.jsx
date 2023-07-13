@@ -1,7 +1,7 @@
-import pokedex from '../../../assets/images/projects-images/pokedex.jpg';
-import htmlImg from '../../../assets/images/technologies-images/html-5.jpg'
-import cssImg from '../../../assets/images/technologies-images/css-3.jpg'
-import javascriptImg from '../../../assets/images/technologies-images/js.jpg'
+import pokedex from '../../../../assets/images/projects-images/pokedex.jpg';
+import htmlImg from '../../../../assets/images/technologies-images/html-5.jpg'
+import cssImg from '../../../../assets/images/technologies-images/css-3.jpg'
+import javascriptImg from '../../../../assets/images/technologies-images/js.jpg'
 
 export const Pokedex = () => {
 	return (

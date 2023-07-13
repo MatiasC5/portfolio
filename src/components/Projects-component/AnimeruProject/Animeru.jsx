@@ -1,7 +1,7 @@
-import animeru from '../../../assets/images/projects-images/animeru.jpg'
-import htmlImg from '../../../assets/images/technologies-images/html-5.jpg'
-import cssImg from '../../../assets/images/technologies-images/css-3.jpg'
-import javascriptImg from '../../../assets/images/technologies-images/js.jpg'
+import animeru from '../../../../assets/images/projects-images/animeru.jpg'
+import htmlImg from '../../../../assets/images/technologies-images/html-5.jpg'
+import cssImg from '../../../../assets/images/technologies-images/css-3.jpg'
+import javascriptImg from '../../../../assets/images/technologies-images/js.jpg'
 
 export const Animeru = () => {
 	return (

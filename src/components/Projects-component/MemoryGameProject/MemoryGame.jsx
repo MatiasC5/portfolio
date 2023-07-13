@@ -1,7 +1,7 @@
-import memoryGame from '../../../assets/images/projects-images/memory-game.jpg';
-import htmlImg from '../../../assets/images/technologies-images/html-5.jpg'
-import cssImg from '../../../assets/images/technologies-images/css-3.jpg'
-import javascriptImg from '../../../assets/images/technologies-images/js.jpg'
+import memoryGame from '../../../../assets/images/projects-images/memory-game.jpg';
+import htmlImg from '../../../../assets/images/technologies-images/html-5.jpg'
+import cssImg from '../../../../assets/images/technologies-images/css-3.jpg'
+import javascriptImg from '../../../../assets/images/technologies-images/js.jpg'
 import '../Projects.css';
 
 export const MemoryGame = () => {

@@ -1,8 +1,8 @@
-import todoList from '../../../assets/images/projects-images/todoList.jpg';
-import htmlImg from '../../../assets/images/technologies-images/html-5.jpg'
-import cssImg from '../../../assets/images/technologies-images/css-3.jpg'
-import javascriptImg from '../../../assets/images/technologies-images/js.jpg'
-import reactImg from '../../../assets/images/technologies-images/react.jpg'
+import todoList from '../../../../assets/images/projects-images/todoList.jpg';
+import htmlImg from '../../../../assets/images/technologies-images/html-5.jpg'
+import cssImg from '../../../../assets/images/technologies-images/css-3.jpg'
+import javascriptImg from '../../../../assets/images/technologies-images/js.jpg'
+import reactImg from '../../../../assets/images/technologies-images/react.jpg'
 
 
 export const TodoList = () => {
