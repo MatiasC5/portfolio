@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "title": "Animeru",
+      "image": "src/assets/animeru.jpg",
+      "id": 1
+    },
+    {
+      "title": "Calculator",
+      "image": "src/assets/calculator.jpg",
+      "id": 1
+    },
+    {
+      "title": "Memotest",
+      "image": "src/assets/memotest.png",
+      "id": 1
+    },
+    {
+      "title": "Pokedex",
+      "image": "src/assets/pokedex.jpg",
+      "id": 1
+    },
+    {
+      "title": "TodoList",
+      "image": "src/assets/todoList.png",
+      "id": 1
+    },
+    {
+      "title": "Tres-En-Raya",
+      "image": "src/assets/tresEnRaya.png",
+      "id": 1
+    },
+    {
+      "title": "Ecommerce",
+      "image": "src/assets/ecommerce.png",
+      "id": 1
+    },
+    {
+      "title": "Stone-paper-scissors",
+      "image": "src/assets/screenshot.png",
+      "id": 1
+    }
+  ]
+}
