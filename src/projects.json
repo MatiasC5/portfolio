@@ -2,12 +2,12 @@
   "projects": [
     {
       "title": "Animeru",
-      "image": "src/assets/animeru.jpg",
+      "image": "/public/animeru.jpg",
       "id": 1
     },
     {
       "title": "Calculator",
-      "image": "src/public/calculator.jpg",
+      "image": "/public/calculator.jpg",
       "id": 1
     },
     {
