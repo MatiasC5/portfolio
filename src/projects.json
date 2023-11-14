@@ -2,32 +2,32 @@
   "projects": [
     {
       "title": "Animeru",
-      "image": "/animeru.jpg",
+      "image": "./animeru.jpg",
       "id": 1
     },
     {
       "title": "Calculator",
-      "image": "/calculator.jpg",
+      "image": "./calculator.jpg",
       "id": 1
     },
     {
       "title": "Memotest",
-      "image": "/memotest.png",
+      "image": "./memotest.png",
       "id": 1
     },
     {
       "title": "Pokedex",
-      "image": "/pokedex.jpg",
+      "image": "./pokedex.jpg",
       "id": 1
     },
     {
       "title": "TodoList",
-      "image": "/todoList.png",
+      "image": "./todoList.png",
       "id": 1
     },
     {
       "title": "Tres-En-Raya",
-      "image": "/tresEnRaya.png",
+      "image": "./tresEnRaya.png",
       "id": 1
     },
     {
