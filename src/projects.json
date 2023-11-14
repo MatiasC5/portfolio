@@ -32,12 +32,12 @@
     },
     {
       "title": "Ecommerce",
-      "image": "/ecommerce.png",
+      "image": "./ecommerce.png",
       "id": 1
     },
     {
       "title": "Stone-paper-scissors",
-      "image": "/screenshot.png",
+      "image": "./screenshot.png",
       "id": 1
     }
   ]
