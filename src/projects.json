@@ -8,37 +8,37 @@
     {
       "title": "Calculator",
       "image": "./calculator.jpg",
-      "id": 1
+      "id": 2
     },
     {
       "title": "Memotest",
       "image": "./memotest.png",
-      "id": 1
+      "id": 3
     },
     {
       "title": "Pokedex",
       "image": "./pokedex.jpg",
-      "id": 1
+      "id": 4
     },
     {
       "title": "TodoList",
       "image": "./todoList.png",
-      "id": 1
+      "id": 5
     },
     {
       "title": "Tres-En-Raya",
       "image": "./tresEnRaya.png",
-      "id": 1
+      "id": 6
     },
     {
-      "title": "Ecommerce",
+      "title": "E-commerce",
       "image": "./ecommerce.png",
-      "id": 1
+      "id": 7
     },
     {
       "title": "Stone-paper-scissors",
       "image": "./screenshot.png",
-      "id": 1
+      "id": 8
     }
   ]
 }
